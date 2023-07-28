@@ -1,0 +1,4536 @@
+[
+    {
+      "clubName": "Nellai",
+      "createdBy": "9789598058",
+      "playerCategory": "U_12_G",
+      "updatedByList": [],
+      "upi": "9790656890",
+      "status": "ACTIVE",
+      "dob": "2012-07-28",
+      "mobile": "9789598058",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9789598058",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "gender": "FEMALE",
+      "name": "Jity",
+      "chestNumber": "",
+      "createdOn": "2023-07-28",
+      "id": "03UiAaJJsy2YGchMdDvV"
+    },
+    {
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "clubName": "Nellai",
+      "playerCategory": "U_14_B",
+      "updatedByList": [],
+      "name": "Srikrishna",
+      "createdBy": "9789598058",
+      "adharNumber": "111111111111",
+      "gender": "MALE",
+      "status": "ACTIVE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "upi": "9790656890",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "mobile": "9789598058",
+      "dob": "2011-07-28",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "registerMobile": "9789598058",
+      "id": "1XZS8rEcxCQo2LHSfbyl"
+    },
+    {
+      "status": "ACTIVE",
+      "upi": "9790656890",
+      "playerCategory": "U_8_G",
+      "events": [
+        {
+          "eventId": "U_8_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "dob": "2016-07-28",
+      "name": "Muthra",
+      "chestNumber": "",
+      "selectedEvents": [
+        {
+          "eventId": "U_8_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_8_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        }
+      ],
+      "updatedByList": [],
+      "clubName": "Nellai",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "gender": "FEMALE",
+      "registerMobile": "9789598058",
+      "createdBy": "9789598058",
+      "mobile": "9789598058",
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "id": "37cAXJxMrU3sUxwkG2SM"
+    },
+    {
+      "registerMobile": "9789598058",
+      "updatedByList": [],
+      "gender": "MALE",
+      "createdOn": "2023-07-28",
+      "status": "ACTIVE",
+      "adharNumber": "111111111111",
+      "chestNumber": "",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "name": "Ramsaran. ",
+      "dob": "2018-07-28",
+      "playerCategory": "U_6_B",
+      "selectedEvents": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "upi": "9790656890",
+      "createdBy": "9789598058",
+      "events": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "mobile": "9789598058",
+      "clubName": "Nellai",
+      "id": "4G0RtL7EtEHgFQLN6lO4"
+    },
+    {
+      "dob": "2011-06-24",
+      "clubName": "Sshn",
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "adharNumber": "111111111111",
+      "name": "Munieswari. M",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "upi": "9790656890",
+      "playerCategory": "U_14_G",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "updatedByList": [],
+      "registerMobile": "9750175174",
+      "mobile": "9750175175",
+      "createdBy": "9750175174",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "gender": "FEMALE",
+      "id": "671Os49HDvLhW9Sp2ApL"
+    },
+    {
+      "gender": "FEMALE",
+      "dob": "2010-07-28",
+      "createdBy": "9789598058",
+      "upi": "9790656890",
+      "mobile": "9789598058",
+      "playerCategory": "U_14_G",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "registerMobile": "9789598058",
+      "chestNumber": "",
+      "adharNumber": "111111111111",
+      "clubName": "Nellai",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "name": "Karthika",
+      "status": "ACTIVE",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "id": "7x2tzjBpKBM1v1N9nTcg"
+    },
+    {
+      "createdOn": "2023-07-28",
+      "registerMobile": "9789598058",
+      "gender": "MALE",
+      "dob": "2017-07-28",
+      "upi": "9790656890",
+      "mobile": "9789598058",
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "playerCategory": "U_8_B",
+      "clubName": "Nellai",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "selectedEvents": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        }
+      ],
+      "events": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "createdBy": "9789598058",
+      "updatedByList": [],
+      "chestNumber": "",
+      "name": "Charli",
+      "id": "8r9zVbFGsmUDbNcfqPd9"
+    },
+    {
+      "createdBy": "9790656890",
+      "upi": "9790656890",
+      "mobile": "9790656890",
+      "selectedEvents": [
+        {
+          "eventId": "U_10_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "dob": "2015-06-19",
+      "clubName": "Nms",
+      "gender": "MALE",
+      "name": "Arjun. T",
+      "registerMobile": "9790656890",
+      "status": "ACTIVE",
+      "playerCategory": "U_10_B",
+      "events": [
+        {
+          "eventId": "U_10_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdOn": "2023-07-28",
+      "updatedByList": [],
+      "chestNumber": "",
+      "adharNumber": "111111111111",
+      "id": "9UmfJkKLigBMuXME92OT"
+    },
+    {
+      "mobile": "9965388041",
+      "chestNumber": "",
+      "dob": "2011-06-09",
+      "id": "9xUbH77q9TgqafBmj67S",
+      "createdBy": "9965388040",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "gender": "MALE",
+      "clubName": "GHS SKPURAM",
+      "playerCategory": "U_14_B",
+      "updatedByList": [],
+      "name": "Pradhap",
+      "registerMobile": "9965388040",
+      "createdOn": "2023-07-28",
+      "upi": "9965388040",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "status": "ACTIVE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED"
+    },
+    {
+      "events": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "chestNumber": "",
+      "registerMobile": "1236548970",
+      "name": "test",
+      "dob": "2023-07-28",
+      "mobile": "8976542310",
+      "playerCategory": "U_6_B",
+      "clubName": "test",
+      "gender": "MALE",
+      "upi": "8976543210",
+      "createdBy": "1236548970",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "updatedByList": [],
+      "adharNumber": "111111111111",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "A2gc0xb18zJCgWebwpbA"
+    },
+    {
+      "upi": "9965388040",
+      "registerMobile": "9965388040",
+      "createdOn": "2023-07-28",
+      "mobile": "9965388020",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        }
+      ],
+      "createdBy": "9965388040",
+      "name": "Vishnu Anand",
+      "chestNumber": "",
+      "clubName": "GHS SKPURAM",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "adharNumber": "111111111111",
+      "dob": "2007-07-25",
+      "updatedByList": [],
+      "gender": "MALE",
+      "playerCategory": "U_17_B",
+      "id": "BYABWJUr7MSLadSGyjfo"
+    },
+    {
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "gender": "FEMALE",
+      "dob": "2018-07-28",
+      "mobile": "9789598058",
+      "upi": "9790656890",
+      "clubName": "Nellai",
+      "createdBy": "9789598058",
+      "name": "Vinusha",
+      "playerCategory": "U_6_G",
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "events": [
+        {
+          "eventId": "U_6_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "registerMobile": "9789598058",
+      "status": "ACTIVE",
+      "chestNumber": "",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_6_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "id": "BbcDwOxiGoqBmq2EiFX6"
+    },
+    {
+      "name": "Manimala. C",
+      "dob": "2012-03-05",
+      "adharNumber": "111111111111",
+      "registerMobile": "9750175174",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "gender": "FEMALE",
+      "createdBy": "9750175174",
+      "createdOn": "2023-07-28",
+      "clubName": "Sshn",
+      "upi": "9790656890",
+      "playerCategory": "U_12_G",
+      "status": "ACTIVE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "mobile": "9750175175",
+      "chestNumber": "",
+      "id": "CmT4VwqZ5eNe6Qfei53R"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        }
+      ],
+      "dob": "2011-11-02",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "status": "ACTIVE",
+      "upi": "9965388040",
+      "name": "Gijanthiran",
+      "chestNumber": "",
+      "mobile": "9965388040",
+      "id": "DXlgv5QY7zBS3BzTbLaP",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdBy": "9965388040",
+      "playerCategory": "U_14_B",
+      "registerMobile": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "gender": "MALE",
+      "adharNumber": "111111111111"
+    },
+    {
+      "chestNumber": "",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "playerCategory": "U_17_B",
+      "mobile": "9965388040",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2008-11-08",
+      "registerMobile": "9965388040",
+      "upi": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "gender": "MALE",
+      "updatedByList": [],
+      "adharNumber": "111111111111",
+      "createdBy": "9965388040",
+      "name": "Pandeeswaran",
+      "status": "ACTIVE",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "id": "Dz6juJS2MMGBeMerQeaD"
+    },
+    {
+      "dob": "2014-03-24",
+      "upi": "9790656890",
+      "chestNumber": "",
+      "createdOn": "2023-07-28",
+      "gender": "MALE",
+      "playerCategory": "U_10_B",
+      "status": "ACTIVE",
+      "registerMobile": "9790656890",
+      "mobile": "9790656890",
+      "adharNumber": "111111111111",
+      "createdBy": "9790656890",
+      "events": [
+        {
+          "eventId": "U_10_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "updatedByList": [],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Nms",
+      "selectedEvents": [
+        {
+          "eventId": "U_10_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "name": "Amarnath. T",
+      "id": "EIoQn1tE4pTgkPx1cM8n"
+    },
+    {
+      "updatedByList": [],
+      "clubName": "GHS SKPURAM",
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        }
+      ],
+      "name": "KarthickRaja",
+      "upi": "9965388040",
+      "status": "ACTIVE",
+      "dob": "2010-11-19",
+      "createdBy": "9965388040",
+      "id": "FJEFR7u2jQ240daw1yCK",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "playerCategory": "U_14_B",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "gender": "MALE",
+      "mobile": "9965388040",
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "registerMobile": "9965388040"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "status": "ACTIVE",
+      "mobile": "9750175175",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "chestNumber": "",
+      "dob": "2013-05-28",
+      "updatedByList": [],
+      "name": "Shivani. S",
+      "upi": "9790656890",
+      "adharNumber": "111111111111",
+      "registerMobile": "9750175174",
+      "gender": "FEMALE",
+      "clubName": "Sshn",
+      "playerCategory": "U_12_G",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdOn": "2023-07-28",
+      "createdBy": "9750175174",
+      "id": "H48SI5eR5GEmH7Fmc4JL"
+    },
+    {
+      "upi": "9790656890",
+      "status": "ACTIVE",
+      "events": [
+        {
+          "eventId": "U_6_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "chestNumber": "",
+      "gender": "FEMALE",
+      "adharNumber": "111111111111",
+      "registerMobile": "9789598058",
+      "name": "Lithisha. ",
+      "playerCategory": "U_6_G",
+      "updatedByList": [],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2018-07-28",
+      "createdOn": "2023-07-28",
+      "createdBy": "9789598058",
+      "mobile": "9789598058",
+      "clubName": "Nellai",
+      "selectedEvents": [
+        {
+          "eventId": "U_6_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_G_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "id": "HXXT6bGqoEORYJyq3p80"
+    },
+    {
+      "registerMobile": "9750175174",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "mobile": "9750175175",
+      "status": "ACTIVE",
+      "clubName": "Sshn",
+      "updatedByList": [],
+      "gender": "FEMALE",
+      "upi": "9790656890",
+      "playerCategory": "U_14_G",
+      "dob": "2011-07-07",
+      "name": "Priyadarshi. S",
+      "chestNumber": "",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdBy": "9750175174",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "id": "IrAvOCtlDkqlp3lZqOGw"
+    },
+    {
+      "gender": "MALE",
+      "upi": "9790656890",
+      "mobile": "9789598058",
+      "status": "ACTIVE",
+      "clubName": "Nellai",
+      "chestNumber": "",
+      "playerCategory": "U_14_B",
+      "createdOn": "2023-07-28",
+      "name": "Akash",
+      "createdBy": "9789598058",
+      "registerMobile": "9789598058",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "updatedByList": [],
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "dob": "2011-07-28",
+      "id": "LEMJMIiyA6iAnQ1vXwqe"
+    },
+    {
+      "updatedByList": [],
+      "chestNumber": "",
+      "dob": "2009-10-10",
+      "name": "Aranvindan",
+      "createdOn": "2023-07-28",
+      "status": "ACTIVE",
+      "gender": "MALE",
+      "adharNumber": "111111111111",
+      "createdBy": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "mobile": "9965388040",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "upi": "9965388040",
+      "playerCategory": "U_17_B",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "registerMobile": "9965388040",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "NMRBU8pIRNgBHgVarQlF"
+    },
+    {
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "mobile": "9750175175",
+      "name": "Dhavajothi. A",
+      "playerCategory": "U_12_G",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Sshn",
+      "gender": "FEMALE",
+      "dob": "2012-06-02",
+      "updatedByList": [],
+      "upi": "9790656890",
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        }
+      ],
+      "createdBy": "9750175174",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "status": "ACTIVE",
+      "registerMobile": "9750175174",
+      "id": "OGDNrZs3hq6H8GqvCWVw"
+    },
+    {
+      "dob": "2010-07-28",
+      "status": "ACTIVE",
+      "gender": "FEMALE",
+      "createdBy": "9789598058",
+      "clubName": "Nellai",
+      "playerCategory": "U_14_G",
+      "createdOn": "2023-07-28",
+      "upi": "9790656890",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "name": "Jeyasurya",
+      "mobile": "9789598058",
+      "chestNumber": "",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        }
+      ],
+      "registerMobile": "9789598058",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "updatedByList": [],
+      "adharNumber": "111111111111",
+      "id": "QSpbQA96lAVujvZZuDSO"
+    },
+    {
+      "status": "ACTIVE",
+      "dob": "2013-07-17",
+      "clubName": "Sshn",
+      "upi": "9790656890",
+      "createdBy": "9750175174",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "name": "Balavaishnavi. P",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "mobile": "9750175175",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "playerCategory": "U_12_G",
+      "chestNumber": "",
+      "updatedByList": [],
+      "gender": "FEMALE",
+      "registerMobile": "9750175174",
+      "id": "RMummqFWMCNJf34bF9vz"
+    },
+    {
+      "updatedByList": [],
+      "dob": "2008-06-28",
+      "upi": "9790656890",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "status": "ACTIVE",
+      "chestNumber": "",
+      "createdOn": "2023-07-28",
+      "gender": "MALE",
+      "adharNumber": "111111111111",
+      "registerMobile": "9790656890",
+      "name": "Sudarmani. A",
+      "playerCategory": "U_17_B",
+      "createdBy": "9790656890",
+      "mobile": "9790656890",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "clubName": "Nms",
+      "id": "RbroYYxNU4IQvjpDP6UT"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "createdBy": "9659655007",
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "clubName": "Indivt",
+      "name": "Hashini sri. S",
+      "gender": "FEMALE",
+      "playerCategory": "U_12_G",
+      "status": "ACTIVE",
+      "upi": "9790656890",
+      "mobile": "9789598058",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "chestNumber": "",
+      "dob": "2013-05-25",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9659655007",
+      "id": "SuVRoq7A3ju24k3Wl1F8"
+    },
+    {
+      "createdBy": "7010581046",
+      "mobile": "9876543120",
+      "upi": "9876543210",
+      "status": "ACTIVE",
+      "updatedByList": [],
+      "chestNumber": "",
+      "clubName": "OHM",
+      "gender": "MALE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "adharNumber": "111111111111",
+      "createdOn": "2023-07-28",
+      "playerCategory": "U_6_B",
+      "dob": "2023-07-28",
+      "events": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "selectedEvents": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "registerMobile": "7010581046",
+      "name": "OHM",
+      "id": "Ti9XNCeUcD7XXNp30KJw"
+    },
+    {
+      "upi": "9790656890",
+      "adharNumber": "111111111111",
+      "registerMobile": "9750175174",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "mobile": "9750175175",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "playerCategory": "U_14_G",
+      "dob": "2010-07-28",
+      "status": "ACTIVE",
+      "name": "Deepika. M",
+      "createdOn": "2023-07-28",
+      "updatedByList": [],
+      "clubName": "Tnpmm",
+      "createdBy": "9750175174",
+      "gender": "FEMALE",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "chestNumber": "",
+      "id": "VDJOfMe8EDpB5TDzivKu"
+    },
+    {
+      "name": "Sherlin",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Nellai",
+      "updatedByList": [],
+      "registerMobile": "9789598058",
+      "createdBy": "9789598058",
+      "playerCategory": "U_12_G",
+      "upi": "9790656890",
+      "chestNumber": "",
+      "mobile": "9789598058",
+      "dob": "2012-07-28",
+      "createdOn": "2023-07-28",
+      "gender": "FEMALE",
+      "status": "ACTIVE",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "id": "WHRSyDKz7G4pw0e2e98M"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "playerCategory": "U_14_G",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9750175174",
+      "createdBy": "9750175174",
+      "gender": "FEMALE",
+      "name": "Papitha. G",
+      "clubName": "Tnpmm",
+      "mobile": "9750175175",
+      "chestNumber": "",
+      "status": "ACTIVE",
+      "dob": "2011-10-03",
+      "adharNumber": "111111111111",
+      "createdOn": "2023-07-28",
+      "upi": "9790656890",
+      "id": "Wx2xgelJ8sQiSkSjpbVq"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "createdBy": "9750175174",
+      "chestNumber": "",
+      "gender": "FEMALE",
+      "name": "Sarigalakshmi. K",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2013-07-26",
+      "upi": "9790656890",
+      "clubName": "Sshn",
+      "updatedByList": [],
+      "mobile": "9750175175",
+      "status": "ACTIVE",
+      "playerCategory": "U_12_G",
+      "registerMobile": "9750175174",
+      "id": "XGgDkFcccEVSpvfHfHDL"
+    },
+    {
+      "chestNumber": "",
+      "updatedByList": [],
+      "name": "Kaleeshwari. T",
+      "gender": "FEMALE",
+      "adharNumber": "111111111111",
+      "createdBy": "9750175174",
+      "dob": "2012-05-29",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Sahn",
+      "mobile": "9750175175",
+      "upi": "9790656890",
+      "createdOn": "2023-07-28",
+      "registerMobile": "9750175174",
+      "playerCategory": "U_12_G",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "id": "XlCxZKbNyWhNwBaniuEH"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "registerMobile": "9965388040",
+      "dob": "2009-09-24",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "gender": "MALE",
+      "id": "ZGwCKc6dFidUuYxSnU4q",
+      "name": "Balakumar",
+      "chestNumber": "",
+      "clubName": "GHS SKPURAM",
+      "status": "ACTIVE",
+      "upi": "9965388040",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "adharNumber": "111111111111",
+      "createdBy": "9965388040",
+      "mobile": "9965388015",
+      "playerCategory": "U_17_B",
+      "createdOn": "2023-07-28",
+      "updatedByList": []
+    },
+    {
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "chestNumber": "",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "clubName": "Sshn",
+      "dob": "2012-05-14",
+      "upi": "9790656890",
+      "name": "Kanagalakshmi. S",
+      "updatedByList": [],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdOn": "2023-07-28",
+      "registerMobile": "9750175174",
+      "gender": "FEMALE",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        }
+      ],
+      "playerCategory": "U_12_G",
+      "mobile": "9750175175",
+      "createdBy": "9750175174",
+      "id": "aLR6ywLAeJ16QCpcJkoy"
+    },
+    {
+      "upi": "9965388040",
+      "registerMobile": "9965388040",
+      "createdBy": "9965388040",
+      "chestNumber": "",
+      "gender": "MALE",
+      "mobile": "9965388040",
+      "updatedByList": [],
+      "clubName": "GHS SKPURAM",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2010-07-03",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "name": "Selvaganesh",
+      "playerCategory": "U_14_B",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "id": "c3snoObAF9MAbB8KAx13"
+    },
+    {
+      "registerMobile": "9789598058",
+      "gender": "MALE",
+      "createdBy": "9789598058",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "dob": "2010-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "updatedByList": [],
+      "name": "Selvakumar",
+      "chestNumber": "",
+      "createdOn": "2023-07-28",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "upi": "9790656890",
+      "adharNumber": "111111111111",
+      "playerCategory": "U_14_B",
+      "mobile": "9789598058",
+      "clubName": "Nellai",
+      "status": "ACTIVE",
+      "id": "cL47ochj70Ak9zZjntpm"
+    },
+    {
+      "clubName": "GHS SKPURAM",
+      "updatedByList": [],
+      "gender": "MALE",
+      "upi": "9965388040",
+      "chestNumber": "",
+      "registerMobile": "9965388040",
+      "createdOn": "2023-07-28",
+      "mobile": "9965388040",
+      "playerCategory": "U_17_B",
+      "adharNumber": "111111111111",
+      "dob": "2007-04-07",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "createdBy": "9965388040",
+      "name": "jagadheswaran",
+      "id": "cYEhcILBW8qSRlS9KOb2"
+    },
+    {
+      "mobile": "9965388041",
+      "upi": "9965388040",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "status": "ACTIVE",
+      "createdOn": "2023-07-28",
+      "playerCategory": "U_14_B",
+      "name": "MaheshKumar",
+      "createdBy": "9965388040",
+      "updatedByList": [],
+      "gender": "MALE",
+      "dob": "2010-03-03",
+      "registerMobile": "9965388040",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "chestNumber": "",
+      "clubName": "GHS SKPURAM",
+      "id": "d6r9hTexSbOSaCMjyN5U"
+    },
+    {
+      "adharNumber": "111111111111",
+      "gender": "MALE",
+      "updatedByList": [],
+      "chestNumber": "",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9965388040",
+      "dob": "2011-05-29",
+      "mobile": "9965388040",
+      "createdBy": "9965388040",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "name": "Anandha kumar",
+      "playerCategory": "U_14_B",
+      "upi": "9965388040",
+      "id": "dWzm9yMurtdKuFFgzqXC",
+      "status": "ACTIVE",
+      "clubName": "GHS SKPURAM"
+    },
+    {
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "name": "Lokith",
+      "gender": "MALE",
+      "registerMobile": "9789598058",
+      "chestNumber": "",
+      "dob": "2017-07-28",
+      "status": "ACTIVE",
+      "createdOn": "2023-07-28",
+      "clubName": "Nellai",
+      "createdBy": "9789598058",
+      "events": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "upi": "9790656890",
+      "playerCategory": "U_8_B",
+      "mobile": "9789598058",
+      "id": "eVBuk27qPDaT9PTbbz8l"
+    },
+    {
+      "registerMobile": "9750175174",
+      "dob": "2013-01-07",
+      "gender": "FEMALE",
+      "clubName": "Sshn",
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "createdOn": "2023-07-28",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "name": "Rathimeenachi",
+      "upi": "9790656890",
+      "mobile": "9750175175",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "chestNumber": "",
+      "updatedByList": [],
+      "createdBy": "9750175174",
+      "playerCategory": "U_12_G",
+      "id": "edwLNhgX2IvN8WHRvGus"
+    },
+    {
+      "chestNumber": "",
+      "mobile": "9965388040",
+      "playerCategory": "U_14_B",
+      "createdOn": "2023-07-28",
+      "gender": "MALE",
+      "clubName": "GHS SKPURAM",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "registerMobile": "9965388040",
+      "name": "Dinesh ",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2010-08-09",
+      "upi": "9965388040",
+      "createdBy": "9965388040",
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "id": "ex9alcqxVAY3ki5km2ZD"
+    },
+    {
+      "upi": "9790656890",
+      "name": "Kavya. A",
+      "gender": "FEMALE",
+      "dob": "2012-01-25",
+      "registerMobile": "9750175174",
+      "clubName": "Sshn",
+      "playerCategory": "U_12_G",
+      "chestNumber": "",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "mobile": "9750175175",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "status": "ACTIVE",
+      "updatedByList": [],
+      "createdBy": "9750175174",
+      "id": "g4NZNJSxIZwcCH0Ei6LH"
+    },
+    {
+      "status": "ACTIVE",
+      "gender": "MALE",
+      "updatedByList": [],
+      "createdBy": "9750175174",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        }
+      ],
+      "dob": "2007-07-28",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "clubName": "Sshn",
+      "name": "Raghul",
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "playerCategory": "U_17_B",
+      "mobile": "9750175174",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "upi": "9790656890",
+      "registerMobile": "9750175174",
+      "id": "hCzx1CraUE7YWsA86KJI"
+    },
+    {
+      "createdOn": "2023-07-28",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "upi": "9965388040",
+      "playerCategory": "U_14_B",
+      "chestNumber": "",
+      "updatedByList": [],
+      "gender": "MALE",
+      "registerMobile": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "mobile": "9965388040",
+      "adharNumber": "111111111111",
+      "name": "Madhavan",
+      "createdBy": "9965388040",
+      "dob": "2010-07-07",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "id": "hTqAaYTTsM2JheJRcBRJ",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "status": "ACTIVE"
+    },
+    {
+      "chestNumber": "",
+      "adharNumber": "111111111111",
+      "updatedByList": [],
+      "createdBy": "9789598058",
+      "registerMobile": "9789598058",
+      "playerCategory": "U_14_G",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "dob": "2010-07-28",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": true,
+          "disable": false,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "clubName": "Nellai",
+      "status": "ACTIVE",
+      "mobile": "9789598058",
+      "name": "Seetha",
+      "upi": "9790656890",
+      "gender": "FEMALE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "hxemsstGRiG2snMpRxfi"
+    },
+    {
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "createdBy": "9750175174",
+      "chestNumber": "",
+      "mobile": "9750175175",
+      "upi": "9790656890",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "playerCategory": "U_12_G",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "name": "Hashini. R",
+      "clubName": "Tnpmm",
+      "gender": "FEMALE",
+      "registerMobile": "9750175174",
+      "dob": "2012-03-04",
+      "status": "ACTIVE",
+      "id": "i6WgnJIyj18fZYZV4Njo"
+    },
+    {
+      "status": "ACTIVE",
+      "createdOn": "2023-07-28",
+      "dob": "2011-07-28",
+      "adharNumber": "111111111111",
+      "registerMobile": "9750175174",
+      "gender": "FEMALE",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        }
+      ],
+      "mobile": "9750175175",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Sshn",
+      "updatedByList": [],
+      "chestNumber": "",
+      "createdBy": "9750175174",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "playerCategory": "U_14_G",
+      "upi": "9790656890",
+      "name": "Keerthana. M",
+      "id": "iJii3tN8pyUIuLKEDhlV"
+    },
+    {
+      "upi": "9790656890",
+      "createdBy": "9789598058",
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "chestNumber": "",
+      "updatedByList": [],
+      "clubName": "Nellai",
+      "mobile": "9789598058",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "name": "Sivasri",
+      "registerMobile": "9789598058",
+      "dob": "2010-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "playerCategory": "U_14_G",
+      "gender": "FEMALE",
+      "status": "ACTIVE",
+      "id": "it9VSEOTDIPf2lpsa6wU"
+    },
+    {
+      "playerCategory": "U_17_B",
+      "mobile": "9750175174",
+      "createdBy": "9750175174",
+      "createdOn": "2023-07-28",
+      "adharNumber": "111111111111",
+      "chestNumber": "",
+      "upi": "9790656890",
+      "updatedByList": [],
+      "registerMobile": "9750175174",
+      "gender": "MALE",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Sshn",
+      "name": "Suresh",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "1500M"
+        }
+      ],
+      "dob": "2008-07-28",
+      "id": "jAKScBBdHDxZ1A4UpKHl"
+    },
+    {
+      "clubName": "Individual",
+      "chestNumber": "",
+      "name": "Sujithkumar. S",
+      "createdOn": "2023-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9659655007",
+      "mobile": "9790656890",
+      "updatedByList": [],
+      "dob": "2011-02-07",
+      "gender": "MALE",
+      "status": "ACTIVE",
+      "upi": "9790656890",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "playerCategory": "U_14_B",
+      "createdBy": "9659655007",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "id": "k9EWiM3yc0GYe8nzBc7C"
+    },
+    {
+      "clubName": "Nellai",
+      "events": [
+        {
+          "eventId": "U_10_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "chestNumber": "",
+      "createdBy": "9789598058",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_10_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        }
+      ],
+      "dob": "2015-07-28",
+      "registerMobile": "9789598058",
+      "status": "ACTIVE",
+      "gender": "FEMALE",
+      "name": "Mouthika",
+      "mobile": "9789598058",
+      "adharNumber": "111111111111",
+      "createdOn": "2023-07-28",
+      "playerCategory": "U_10_G",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "upi": "9790656890",
+      "id": "l2NUkpe26u3o0iuvp9Kz"
+    },
+    {
+      "adharNumber": "111111111111",
+      "chestNumber": "",
+      "gender": "FEMALE",
+      "createdOn": "2023-07-28",
+      "mobile": "9789598058",
+      "createdBy": "9789598058",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2014-07-28",
+      "registerMobile": "9789598058",
+      "playerCategory": "U_10_G",
+      "status": "ACTIVE",
+      "clubName": "Nellai",
+      "upi": "9790656890",
+      "selectedEvents": [
+        {
+          "eventId": "U_10_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        }
+      ],
+      "name": "Sijitha",
+      "updatedByList": [],
+      "events": [
+        {
+          "eventId": "U_10_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_10_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHUTTLE_RUN"
+        }
+      ],
+      "id": "l8TXQi4PHVTfO2FBQYZM"
+    },
+    {
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "events": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "1500M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_7",
+          "selection": false,
+          "disable": true,
+          "eventName": "JAWLIN_THROW"
+        }
+      ],
+      "registerMobile": "9965388040",
+      "status": "ACTIVE",
+      "dob": "2008-01-30",
+      "adharNumber": "111111111111",
+      "mobile": "9965388040",
+      "name": "Dineshkannan",
+      "selectedEvents": [
+        {
+          "eventId": "U_17_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_17_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "gender": "MALE",
+      "updatedByList": [],
+      "createdOn": "2023-07-28",
+      "upi": "9965388040",
+      "chestNumber": "",
+      "playerCategory": "U_17_B",
+      "createdBy": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "id": "lsmaUQdxu51JUwwK8cUi"
+    },
+    {
+      "mobile": "9750175175",
+      "adharNumber": "111111111111",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "playerCategory": "U_12_G",
+      "status": "ACTIVE",
+      "gender": "FEMALE",
+      "registerMobile": "9750175174",
+      "name": "Santhiya. E",
+      "createdOn": "2023-07-28",
+      "upi": "9790656890",
+      "dob": "2012-04-26",
+      "chestNumber": "",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "clubName": "Sshn",
+      "createdBy": "9750175174",
+      "id": "lwexmrv5ISRDQdQ6hPFU"
+    },
+    {
+      "name": "Kalimuthu",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "updatedByList": [],
+      "gender": "MALE",
+      "chestNumber": "",
+      "dob": "2010-06-20",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "createdBy": "9965388040",
+      "registerMobile": "9965388040",
+      "playerCategory": "U_14_B",
+      "mobile": "9965388041",
+      "upi": "9965388040",
+      "clubName": "GHS SKPURAM",
+      "id": "nWZoIHgSif3kvYY4KcYo"
+    },
+    {
+      "upi": "9790656890",
+      "name": "Jubshini",
+      "mobile": "9789598058",
+      "gender": "FEMALE",
+      "createdBy": "9789598058",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "registerMobile": "9789598058",
+      "createdOn": "2023-07-28",
+      "playerCategory": "U_14_G",
+      "status": "ACTIVE",
+      "events": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_G_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "selectedEvents": [
+        {
+          "eventId": "U_14_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "800M"
+        }
+      ],
+      "updatedByList": [],
+      "clubName": "Nellai",
+      "adharNumber": "111111111111",
+      "chestNumber": "",
+      "dob": "2011-07-28",
+      "id": "p8qtdZW3ihq1dckVspc7"
+    },
+    {
+      "clubName": "Nellai",
+      "dob": "2016-07-28",
+      "selectedEvents": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "gender": "MALE",
+      "name": "Akash",
+      "status": "ACTIVE",
+      "createdOn": "2023-07-28",
+      "events": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "chestNumber": "",
+      "createdBy": "9789598058",
+      "upi": "9790656890",
+      "mobile": "9789598058",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "updatedByList": [],
+      "registerMobile": "9789598058",
+      "playerCategory": "U_8_B",
+      "id": "qmyNe53EMrjqUNJTpee9"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Devikiruthika",
+      "adharNumber": "111111111111",
+      "mobile": "9789598058",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        }
+      ],
+      "status": "ACTIVE",
+      "upi": "9790656890",
+      "createdBy": "9789598058",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "playerCategory": "U_12_G",
+      "dob": "2012-07-28",
+      "updatedByList": [],
+      "clubName": "Nellai",
+      "registerMobile": "9789598058",
+      "createdOn": "2023-07-28",
+      "chestNumber": "",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "rQixB6tHqOZ1nSdk6rVE"
+    },
+    {
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "name": "Ameera",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "playerCategory": "U_12_G",
+      "chestNumber": "",
+      "mobile": "9789598058",
+      "createdOn": "2023-07-28",
+      "dob": "2012-07-28",
+      "adharNumber": "111111111111",
+      "registerMobile": "9789598058",
+      "createdBy": "9789598058",
+      "clubName": "Nellai",
+      "status": "ACTIVE",
+      "updatedByList": [],
+      "upi": "9790656890",
+      "gender": "FEMALE",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "id": "rnXricEvE4SYCeALLRav"
+    },
+    {
+      "playerCategory": "U_14_B",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdBy": "9789598058",
+      "name": "Pari",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        }
+      ],
+      "gender": "MALE",
+      "clubName": "Nellai",
+      "status": "ACTIVE",
+      "chestNumber": "",
+      "registerMobile": "9789598058",
+      "upi": "9790656890",
+      "adharNumber": "111111111111",
+      "updatedByList": [],
+      "createdOn": "2023-07-28",
+      "dob": "2011-07-28",
+      "mobile": "9789598058",
+      "id": "sYtNhpPTIE8nuRPAtISh"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Sivaranjani. A",
+      "clubName": "Sshn",
+      "createdOn": "2023-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "status": "ACTIVE",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        }
+      ],
+      "mobile": "9750175175",
+      "registerMobile": "9750175174",
+      "playerCategory": "U_12_G",
+      "chestNumber": "",
+      "upi": "9790656890",
+      "createdBy": "9750175174",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "dob": "2012-05-13",
+      "updatedByList": [],
+      "adharNumber": "111111111111",
+      "id": "thD7JPlaRBgilRx072oj"
+    },
+    {
+      "createdOn": "2023-07-28",
+      "clubName": "Nellai",
+      "updatedByList": [],
+      "selectedEvents": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        }
+      ],
+      "upi": "9790656890",
+      "playerCategory": "U_8_B",
+      "chestNumber": "",
+      "mobile": "9789598058",
+      "dob": "2016-07-28",
+      "name": "Ajan",
+      "status": "ACTIVE",
+      "registerMobile": "9789598058",
+      "gender": "MALE",
+      "adharNumber": "111111111111",
+      "events": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "createdBy": "9789598058",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "uBZ1vSVjDP1bZwPIYqSd"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        }
+      ],
+      "gender": "MALE",
+      "createdBy": "9789598058",
+      "chestNumber": "",
+      "clubName": "Nellai",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": false,
+          "disable": true,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": true,
+          "disable": false,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "dob": "2010-07-28",
+      "status": "ACTIVE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdOn": "2023-07-28",
+      "registerMobile": "9789598058",
+      "playerCategory": "U_14_B",
+      "upi": "9790656890",
+      "updatedByList": [],
+      "mobile": "9789598058",
+      "name": "Harshithbabu",
+      "id": "vLm9HZYuleK74E2ZFXJA"
+    },
+    {
+      "updatedByList": [],
+      "registerMobile": "9789598058",
+      "name": "Amalesh",
+      "selectedEvents": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        }
+      ],
+      "status": "ACTIVE",
+      "chestNumber": "",
+      "clubName": "Nellai",
+      "gender": "MALE",
+      "playerCategory": "U_8_B",
+      "upi": "9790656890",
+      "createdOn": "2023-07-28",
+      "events": [
+        {
+          "eventId": "U_8_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_8_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "dob": "2016-07-28",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "adharNumber": "111111111111",
+      "createdBy": "9789598058",
+      "mobile": "9789598058",
+      "id": "vvDubnXnhta8ZUhuxPHG"
+    },
+    {
+      "name": "Sam",
+      "gender": "MALE",
+      "playerCategory": "U_6_B",
+      "createdOn": "2023-07-28",
+      "updatedByList": [],
+      "chestNumber": "",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2018-07-28",
+      "createdBy": "9789598058",
+      "upi": "9790656890",
+      "clubName": "Nellai",
+      "events": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "selectedEvents": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": true,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        }
+      ],
+      "mobile": "9789598058",
+      "status": "ACTIVE",
+      "registerMobile": "9789598058",
+      "id": "y52qDLb4g5YBDM6gLEbk"
+    },
+    {
+      "clubName": "aaa",
+      "mobile": "9879876450",
+      "createdBy": "8682890117",
+      "gender": "MALE",
+      "playerCategory": "U_6_B",
+      "status": "ACTIVE",
+      "registerMobile": "8682890117",
+      "chestNumber": "",
+      "updatedByList": [],
+      "upi": "9876543210",
+      "events": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_2",
+          "selection": false,
+          "disable": false,
+          "eventName": "BALL_THROW"
+        },
+        {
+          "eventId": "U_6_B_EVENTS_3",
+          "selection": false,
+          "disable": false,
+          "eventName": "30M_Hurdles"
+        }
+      ],
+      "adharNumber": "111111111111",
+      "dob": "2023-07-27",
+      "createdOn": "2023-07-28",
+      "selectedEvents": [
+        {
+          "eventId": "U_6_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "50M"
+        }
+      ],
+      "name": "vinoth_test",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "id": "yFjuHeBUgy9o4JjtvDb5"
+    },
+    {
+      "updatedByList": [],
+      "gender": "FEMALE",
+      "clubName": "Sshn",
+      "playerCategory": "U_12_G",
+      "status": "ACTIVE",
+      "adharNumber": "111111111111",
+      "name": "Dhanusri. K",
+      "dob": "2012-10-21",
+      "selectedEvents": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        }
+      ],
+      "registerMobile": "9750175174",
+      "chestNumber": "",
+      "upi": "9790656890",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "createdOn": "2023-07-28",
+      "mobile": "9750175175",
+      "createdBy": "9750175174",
+      "events": [
+        {
+          "eventId": "U_12_G_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "80M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "200M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "600M"
+        },
+        {
+          "eventId": "U_12_G_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "id": "yqO2SH02oo2TRARaug7L"
+    },
+    {
+      "selectedEvents": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "LONG_JUMP"
+        }
+      ],
+      "createdBy": "9789598058",
+      "chestNumber": "",
+      "upi": "9790656890",
+      "clubName": "Nellai",
+      "adharNumber": "111111111111",
+      "gender": "MALE",
+      "name": "Sam",
+      "playerCategory": "U_14_B",
+      "events": [
+        {
+          "eventId": "U_14_B_EVENTS_1",
+          "selection": true,
+          "disable": false,
+          "eventName": "100M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_2",
+          "selection": false,
+          "disable": true,
+          "eventName": "400M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_3",
+          "selection": false,
+          "disable": true,
+          "eventName": "800M"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_4",
+          "selection": true,
+          "disable": false,
+          "eventName": "LONG_JUMP"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_5",
+          "selection": false,
+          "disable": true,
+          "eventName": "DISCUSS_THROW"
+        },
+        {
+          "eventId": "U_14_B_EVENTS_6",
+          "selection": false,
+          "disable": true,
+          "eventName": "SHORT_PUT"
+        }
+      ],
+      "createdOn": "2023-07-28",
+      "status": "ACTIVE",
+      "paymentStatus": "PAYMENT_NOT_VERIFIED",
+      "dob": "2011-07-28",
+      "registerMobile": "9789598058",
+      "mobile": "9789598058",
+      "updatedByList": [],
+      "id": "zOVnphEscNHZ5jVDWpIT"
+    }
+  ]
