@@ -51,7 +51,8 @@ const PlayerListComponent = () => {
     }
 
     const viewPlayer = (player) => {
-        setPopupObj({ componentName: "EditPlayerComponent", playerData: player, title: player.name })
+        setPopupObj({ componentName: "ViewPlayerComponent", props: player, title: player.name })
+
         setMsgPopupFlag(true)
     }
 
@@ -72,7 +73,7 @@ const PlayerListComponent = () => {
     }
     
     const editPlayer = (player) =>{
-        setPopupObj({ componentName: "ViewPlayerComponent", props: player, title: player.name })
+        setPopupObj({ componentName: "EditPlayerComponent", playerData: player, title: player.name })
         setMsgPopupFlag(true)
     }
     return (
@@ -191,7 +192,10 @@ const PlayerListComponent = () => {
                                                         
                                                         <td>{player.paymentStatus}</td>
                                                         <td>{player.createdOn}</td>
-                                                        <td><button onClick={()=>{editPlayer(player)}}>Edit</button></td>
+                                                        {/* <td>
+                                                            <button onClick={()=>{editPlayer(player)}}>Edit</button>
+                                                            <button onClick={()=>{viewPlayer(player)}}>View</button>
+                                                        </td> */}
                                                     </tr>
                                                 )
                                             }
