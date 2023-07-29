@@ -76,6 +76,7 @@ const PlayerListComponent = () => {
         setPopupObj({ componentName: "EditPlayerComponent", playerData: player, title: player.name })
         setMsgPopupFlag(true)
     }
+    let i = 0;
     return (
         <div>
             {
@@ -178,9 +179,10 @@ const PlayerListComponent = () => {
                                     {
                                         playerList?.length ? playerList.map((player, pIndex) => {
                                             if (getQueryValidation(player)) {
+                                                i = i+1;
                                                 return (
                                                     <tr key={pIndex} onClick={() => { viewPlayer(player) }}>
-                                                        <td>{pIndex + 1}</td>
+                                                        <td>{i}</td>
                                                         <td>{player.name}</td>
                                                         <td>{player.playerCategory}</td>
                                                         <td>Not-yet</td>{
